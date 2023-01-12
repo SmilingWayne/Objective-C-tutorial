@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18D3E84229705EFD00900D71 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D3E84129705EFD00900D71 /* main.m */; };
+		18D3E84E29706E0400900D71 /* Animal.m in Sources */ = {isa = PBXBuildFile; fileRef = 18D3E84D29706E0400900D71 /* Animal.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +27,8 @@
 		18D3E83E29705EFD00900D71 /* Objective-C tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Objective-C tutorial"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D3E84129705EFD00900D71 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18D3E8482970642D00900D71 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		18D3E84C29706E0400900D71 /* Animal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Animal.h; sourceTree = "<group>"; };
+		18D3E84D29706E0400900D71 /* Animal.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Animal.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,8 @@
 			isa = PBXGroup;
 			children = (
 				18D3E84129705EFD00900D71 /* main.m */,
+				18D3E84C29706E0400900D71 /* Animal.h */,
+				18D3E84D29706E0400900D71 /* Animal.m */,
 			);
 			path = "Objective-C tutorial";
 			sourceTree = "<group>";
@@ -122,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18D3E84229705EFD00900D71 /* main.m in Sources */,
+				18D3E84E29706E0400900D71 /* Animal.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
