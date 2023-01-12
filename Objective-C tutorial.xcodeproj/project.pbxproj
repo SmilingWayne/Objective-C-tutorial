@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		18D3E83E29705EFD00900D71 /* Objective-C tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Objective-C tutorial"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D3E84129705EFD00900D71 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18D3E8482970642D00900D71 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		18D3E83529705EFD00900D71 = {
 			isa = PBXGroup;
 			children = (
+				18D3E8482970642D00900D71 /* .gitignore */,
 				18D3E84029705EFD00900D71 /* Objective-C tutorial */,
 				18D3E83F29705EFD00900D71 /* Products */,
 			);
